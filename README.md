@@ -9,4 +9,4 @@ This project samples the development of a weather-conscious travel planning app.
 | |
 | - |                                                       
 | ![world_map](./Vacation_Search/WeatherPy_vacation_map.png) |
-| ![itin](./Vacation_Itinerary/WeatherPy_travel_map_crop.png) ![itin_detail](./Vacation_Itinerary/WeatherPy_travel_markers_crop.png) |
+| <p align="center">![itin](./Vacation_Itinerary/WeatherPy_travel_map_crop.png) ![itin_detail](./Vacation_Itinerary/WeatherPy_travel_markers_crop.png)</p> |
